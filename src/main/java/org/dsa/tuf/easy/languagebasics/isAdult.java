@@ -1,4 +1,4 @@
-package org.dsa.tuf.easy;
+package org.dsa.tuf.easy.languagebasics;
 /*
     Topic: Java Language Basics
     Sub-Topic: if else

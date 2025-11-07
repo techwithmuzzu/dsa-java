@@ -1,4 +1,4 @@
-package org.dsa.tuf.easy;
+package org.dsa.tuf.easy.languagebasics;
 
 import java.util.Scanner;
 
